@@ -36,4 +36,6 @@ How to use ?
 	});
 
 
+Demo
 --------------
+* [Demo Jptable Adrow Plugin](http://soundonesia.com/jp-table/)
