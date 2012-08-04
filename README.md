@@ -38,4 +38,4 @@ How to use ?
 
 Demo
 --------------
-* [Demo Jptable Adrow Plugin](http://soundonesia.com/jp-table/)
+* [Demo Jptable Adrow Plugin](http://desamedia.com/jp-table/)
